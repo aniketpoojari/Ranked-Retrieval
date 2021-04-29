@@ -5,3 +5,4 @@
 - Achieved precision of 0.62 for training and 0.35 for validation for inverse document frequency
 - Achieved precision of 0.64 for training and 0.41 for validation for tf-idf
 - Achieved precision of 0.63 for training and 0.35 for validation for tf-idf vector space model
+- Used - Python, pandas, spacy, sklearn
