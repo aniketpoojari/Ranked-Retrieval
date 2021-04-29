@@ -1,7 +1,7 @@
 # RANKED RETRIVAL
-- USED DIFFERENT TECHINQUES TO RETRIEVE RELEVANT DOCUMENTS FOR QUERIES
-- USING JACCARD COEFFICIENT TRAIN PRECISION 0.8 VAL PRECISION 0.42
-- USING TERM FREQUENCY TRAIN PRECISION 0.59 VAL PRECISION 0.48
-- USING INVERSE DOCUMENT FREQUENCY TRAIN PRECISION 0.62 VAL PRECISION 0.35
-- USING TF-IDF TRAIN PRECISION 0.64 VAL PRECISION 0.41
-- USING TF-IDF VECTOR SPACE MODEL TRAIN PRECISION 0.63 VAL PRECISION 0.35
+- Used Jaccard coefficient, Term frequency, Inverse Document Frequency, TF-IDF and TF-IDF vectors to find relevant documents for questions and calculating precision
+- Achieved precision of 0.80 for training and 0.42 for validation for jaccard coefficient
+- Achieved precision of 0.59 for training and 0.48 for validation for term frequency
+- Achieved precision of 0.62 for training and 0.35 for validation for inverse document frequency
+- Achieved precision of 0.64 for training and 0.41 for validation for tf-idf
+- Achieved precision of 0.63 for training and 0.35 for validation for tf-idf vector space model
